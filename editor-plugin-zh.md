@@ -1,4 +1,4 @@
-Editors Plugin
+编辑器插件
 ===
 <!--rehype:style=font-size: 38px; border-bottom: 0; display: flex; min-height: 260px; align-items: center; justify-content: center;--> 
 
@@ -63,7 +63,7 @@ Editors Plugin
 * [GitGutter](https://packagecontrol.io/packages/GitGutter) - 显示比对 Git 的状态。
 * [BracketHighlighter](https://packagecontrol.io/packages/BracketHighlighter) - 高亮显示标签括号。
 * [SideBarEnhancements](https://packagecontrol.io/packages/SideBarEnhancements) - 扩展文件编辑右键菜单。
-* [Markdown Extended](https://packagecontrol.io/packages/Markdown%20Extended) -  markdown 语法高亮。
+* [Markdown Extended](https://packagecontrol.io/packages/Markdown%20Extended) -  Markdown 语法高亮。
 * [Babel](https://packagecontrol.io/packages/Babel) - ES6 语法高亮。
 * [AutoFileName](https://packagecontrol.io/packages/AutoFileName) - 自动完成文件名。
 * [FTPSync](https://packagecontrol.io/packages/FTPSync) - FTP 同步插件，本地与虚拟机做文件同步非常方便。
@@ -95,6 +95,7 @@ Editors Plugin
   * [Markdown PDF](https://github.com/yzane/vscode-markdown-pdf) - 将 Markdown 文档转为 pdf、html、png 或 jpeg。
   * [ESlint](https://github.com/Microsoft/vscode-eslint) - VSCode ，帮助校验 ES 语法等。
   * [TSLint](https://github.com/Microsoft/vscode-eslint) - TSLint 在 VScode 工具，帮助校验 TS 语法等。
+  * [Typora](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-typora) - 让你的VSCode拥有Typora级Markdown编辑体验。
 
 * HTML
   * [Auto Close Tag](https://github.com/formulahendry/vscode-auto-close-tag) - 自动闭合标签。
